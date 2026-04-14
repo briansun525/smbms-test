@@ -2,7 +2,6 @@ package com.wxy.servlet.user;
 
 import com.alibaba.fastjson.JSONArray;
 import com.mysql.jdbc.StringUtils;
-import com.sun.javaws.HtmlOptions;
 import com.wxy.pojo.Role;
 import com.wxy.pojo.User;
 import com.wxy.service.role.RoleService;
